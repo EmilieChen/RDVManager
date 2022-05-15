@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/share"
+        android:title="@string/iShare"></item>
+    <item
+        android:id="@+id/launchMaps"
+        android:title="@string/iLaunchMaps"></item>
+    <item
+        android:id="@+id/callPhoneNumber"
+        android:title="@string/iCallPhoneNumber"></item>
+    <item
+        android:id="@+id/delete"
+        android:title="@string/iDelete"></item>
+</menu>

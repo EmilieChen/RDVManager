@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RDVManager</string>
+    <string name="tvEmpty">无约会</string>
+    <string name="iSearch">搜索</string>
+    <string name="iAdd">加</string>
+    <string name="lblTitle">主题</string>
+    <string name="lblDate">日期</string>
+    <string name="lblTime">时间</string>
+    <string name="lblContact">有关人物</string>
+    <string name="btnSave">保存</string>
+    <string name="lblCancel">取消</string>
+    <string name="etDone">已约</string>
+    <string name="lblAddress">地址</string>
+    <string name="lblPhone">电话号码</string>
+    <string name="iDelete">删除</string>
+    <string name="iShare">分享内容</string>
+    <string name="iLaunchMaps">打开Google地图</string>
+    <string name="iCallPhoneNumber">拨打电话号码</string>
+    <string name="iSettings">设置</string>
+    <string name="sTheme">主题颜色</string>
+
+    <string name="primary_color">原色</string>
+    <string name="secondary_color">二次色</string>
+    <string name="cbPlayMusic">开启音乐</string>
+    <string name="sMusic">音乐</string>
+</resources>

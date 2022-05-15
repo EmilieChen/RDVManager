@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RDVManager</string>
+    <string name="tvEmpty">Pas de RDVs planifié</string>
+    <string name="iSearch">Rechercher</string>
+    <string name="iAdd">Ajouter</string>
+    <string name="lblTitle">Titre</string>
+    <string name="lblDate">Date</string>
+    <string name="lblTime">Heure</string>
+    <string name="lblContact">Contact</string>
+    <string name="btnSave">Sauvegarder</string>
+    <string name="lblCancel">Annuler</string>
+    <string name="etDone">Fait</string>
+    <string name="lblAddress">Adresse</string>
+    <string name="lblPhone">N° tél.</string>
+    <string name="iDelete">Delete</string>
+    <string name="iShare">Partager</string>
+    <string name="iLaunchMaps">Lancer Google Maps</string>
+    <string name="iCallPhoneNumber">Appeler le numéro de téléphone</string>
+    <string name="iSettings">Paramètres</string>
+    <string name="sTheme">Couleur du thême</string>
+
+    <string name="primary_color">Couleur primaire</string>
+    <string name="secondary_color">Couleur secondaire</string>
+    <string name="cbPlayMusic">Activer la musique</string>
+    <string name="sMusic">Musique</string>
+</resources>

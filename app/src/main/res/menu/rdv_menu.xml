@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/new_rdv"
+        android:icon="@drawable/new_rdv_icon"
+        android:title="@string/iAdd"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/search"
+        android:title="@string/iSearch" />
+    <item
+        android:id="@+id/settings"
+        android:title="@string/iSettings" />
+    <!--
+    <item
+        android:id="@+id/shareList"
+        android:title="@string/iShareList" />-->
+</menu>

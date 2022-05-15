@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RDVManager</string>
+    <string name="tvEmpty">No RDVs found</string>
+    <string name="iSearch">Search</string>
+    <string name="iAdd">Add</string>
+    <string name="lblTitle">Title</string>
+    <string name="lblDate">Date</string>
+    <string name="lblTime">Time</string>
+    <string name="lblContact">Contact</string>
+    <string name="btnSave">Save</string>
+    <string name="lblCancel">Cancel</string>
+    <string name="etDone">Done</string>
+    <string name="lblAddress">Address</string>
+    <string name="lblPhone">Phone number</string>
+    <string name="iDelete">Delete</string>
+    <string name="iShare">Share content</string>
+    <string name="iLaunchMaps">Launch Maps</string>
+    <string name="iCallPhoneNumber">Call phone number</string>
+    <string name="iSettings">Settings</string>
+    <string name="sTheme">Theme color</string>
+
+    <string name="primary_color">Primary color</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="cbPlayMusic">Play music</string>
+    <string name="sMusic">Music</string>
+</resources>
